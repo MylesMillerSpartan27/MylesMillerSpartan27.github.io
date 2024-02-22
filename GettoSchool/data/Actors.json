@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Akanebattle","characterIndex":0,"characterName":"AkaneWalking","classId":4,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"AkaneFace","traits":[],"initialLevel":1,"maxLevel":80,"name":"Akane","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Peter_Battle","characterIndex":0,"characterName":"Peter_walking","classId":4,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Peter","traits":[],"initialLevel":1,"maxLevel":80,"name":"Peter","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Butterdog","nickname":"B-Dawg","note":"","profile":"The dog with the butter on him"},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":3,"characterName":"","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"","traits":[],"initialLevel":1,"maxLevel":80,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Akanebattle","characterIndex":0,"characterName":"AkaneWalking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"AkaneFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Akane","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"mom_battle","characterIndex":0,"characterName":"mom_walk","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mom","traits":[],"initialLevel":12,"maxLevel":99,"name":"Mom","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
