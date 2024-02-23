@@ -10,6 +10,6 @@ null,
 null,
 null,
 {"id":10,"expanded":false,"name":"bdungeon","order":5,"parentId":12,"scrollX":582.5454545454546,"scrollY":346.3636363636364,"quick":false},
-{"id":11,"expanded":false,"name":"Fpass","order":6,"parentId":0,"scrollX":832,"scrollY":624.5,"quick":false},
-{"id":12,"expanded":false,"name":"bpass","order":4,"parentId":2,"scrollX":1589,"scrollY":506.5,"quick":false}
+{"id":11,"expanded":false,"name":"Fpass","order":6,"parentId":0,"scrollX":811,"scrollY":553.5,"quick":false},
+{"id":12,"expanded":false,"name":"bpass","order":4,"parentId":2,"scrollX":1239,"scrollY":498.5,"quick":false}
 ]
