@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Pics</title>
+    <link id="lightSheet" rel="stylesheet" href="css/style.css">
+    <link id="darkSheet" rel="stylesheet" media="none" href="css/dark.css">
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: aqua;
+            background-image: url(img/sparkle.webp); background-repeat: repeat;
+        }
+    </style>
+
+ </script>
+</head>
+<div>
+    <div id="side">
+    <aside>
+        <header>Get to School</header>
+        <p>get to school is a fun and action packed RPG turn based game where you make your best adventure</p>
+    </aside>
+</div>
+<div>
+    
+</div>
+<body>
+    <div id="content">
+        <div id="banner">
+            <h1>my website</h1>
+            <a href="about.html">About me</a>
+            <a href="gameguide.html">get to school</a>
+            <a href="#" onclick="changeSheet()">Change Mode</a>
+        
+        
+        </div>
+<div>
+    <div id="footer">
+        <footer>
+            <p>New game update</p>
+        </footer>
+</div>
+
+        <div id="blogpost">
+
+            <div class="post">
+                <h2>About me</h2>
+                <p>My name is Myles I like Anime girls</p>
+                <p> click <a href="about.html">here</a>to learn more</p>
+            </div>
+            <script>
+
+var lightMode = true;
+
+function changeSheet() {
+    // make lightMode equal NOT lightMode
+    lightMode = !lightMode;
+var lightSheet = document.getElementById("lightSheet")
+var darkSheet = document.getElementById("darkSheet")
+
+// if lightMode turn off display dark stylesheet
+if (lightMode == false) {
+    console.log("Turning dark mode on...");
+    darkSheet.media = ""
+    lightSheet.media = "none";
+} else {
+    console.log("Turning light mode on...");
+    darkSheet.media = "none"
+    lightSheet.media = "";
+}
+}
+
+
+            </script>
+            <div class="post">
+                <h2>Get To School</h2>
+                <p>Get To School is a smash hit indie success about getting to school persumably</p>
+                <p> click <a href="gettoschool/index.html">here</a> to play the game</p>
+</body>
+
+</html>

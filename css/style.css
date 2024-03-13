@@ -1,0 +1,55 @@
+
+body {font-family: 'Courier New', Courier, monospace;
+    background-image: url("sparkle.png"); background-repeat: no-repeat;}
+
+#content {width: 60%;
+margin: auto;
+border:  1px solid purple;
+padding: 10;
+
+}
+
+
+#banner {
+    background-color: rgba(14, 217, 143, 0.573);
+    text-align: center;
+    margin: 5px;
+border-radius: 10px;
+}
+#blogpost {background-color: rgba(224, 145, 9, 0.847);
+border-radius: 20px;    
+margin: 25px;
+border: 5px solid red;
+display:flex
+
+} 
+
+
+.post {margin: 45px;
+border-radius: 10px;
+    padding: 45px;
+border: 2px solid brown;
+background-color: rgb(229, 221, 221);
+width: 50%;}
+
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post img{
+    width: 200px;
+}
+    aside {
+
+    width: 19%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color: lightgray;
+    height: 760px;
+}
+
+
